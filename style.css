@@ -1,0 +1,43 @@
+.titre{
+    font-family: "Roboto", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    margin-left: 30px;
+}
+
+H2{
+    font-family: "Roboto", sans-serif;
+    font-size: 30px;
+    margin-left: 30px;
+}
+
+.cartouche{
+    font-family: "roboto";
+    color: #0c3cff;
+    font-size: 25px;
+    background-color: white;
+    border-radius: 16px;
+    padding: 2rem;
+    text-align: center;
+    outline: .125rem #0c3cff solid;
+    margin-bottom: 20px;
+    
+}
+
+.cartouche2{
+    display: flex;
+    justify-content: center;
+    gap: 20
+}
+
+.c4{
+    width: 400px;
+}
+
+.c5{
+    width: 400px;
+}
+
+.c6{
+    width: 400px;
+}
